@@ -15,7 +15,7 @@ This project will guide you through creating a web application that receives and
    - Enter a name for your VPC (e.g., `MyVPC`).
    - Use an appropriate CIDR block (e.g., `10.0.0.0/16`).
    - Click "Create."
-   [preview](images/vpc.png)
+   ![preview](images/vpc.png)
    
 
 ---
