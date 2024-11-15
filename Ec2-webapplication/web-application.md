@@ -36,11 +36,8 @@ In this project, we will launch an EC2 instance that automatically installs and 
   - Port `80` (HTTP)
   - Port `22` (SSH)
 
-<<<<<<< HEAD
  ![preview](images/EC2-1.png)
-=======
- ![preview](images/ec2-1.png)
->>>>>>> 00b329ceb9d25784dac1d871dcc5c1ba1384db27
+
 
 #### Review and Launch
 * Choose or create a key pair for SSH access.
