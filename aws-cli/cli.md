@@ -114,6 +114,8 @@ aws ec2 create-vpc --cidr-block 10.0.0.0/16
 ![preview](images/routeasscociate.png)
 
 ---
+##### step:8 
+* Attach IGW to public Route table
 
 ### Step 7: Create Security Groups (SG)
 * Security Group for SSH and HTTP 
